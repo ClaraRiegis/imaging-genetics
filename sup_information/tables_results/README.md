@@ -1,7 +1,7 @@
 # Excel files with all results of the statistical analyses
 
-Genetic variants associated with longitudinal changes in MRI-derived <br />
-phenotypes across adolescence
+Genetic variants associated with longitudinal changes in MRI-derived. <br />
+phenotypes across adolescence.  
 Clara Riégis
 University of Cambridge
 MPhil Basic and translational neuroscience
