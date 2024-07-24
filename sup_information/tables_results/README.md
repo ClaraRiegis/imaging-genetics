@@ -1,6 +1,6 @@
 # Supplementary information (results)
 
-Excel files with all results of the statistical analyses:   
+Excel files with all results of the statistical analyses.   
 Genetic variants associated with longitudinal changes in MRI-derived phenotypes across adolescence.  
 Clara Riégis  
 University of Cambridge   
